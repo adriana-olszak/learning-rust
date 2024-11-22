@@ -1,1 +1,0 @@
-searchState.loadedDescShard("rust_by_example", 0, "Prints hello world message!")
