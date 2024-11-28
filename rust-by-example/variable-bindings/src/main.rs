@@ -30,7 +30,7 @@ fn main() {
     // FIXME ^ Comment out this line
 
     println!("outer long: {}", long_lived_binding);
-
+typ
     let shadowed_binding = 1;
 
     {
